@@ -27,7 +27,7 @@ x-tier-reason: portfolio-lead
 x-status: acquired-absorbed
 x-successor: onetrust
 x-status-evidence: 'https://planetly.com 301 redirects to https://www.onetrust.com/solutions/'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
